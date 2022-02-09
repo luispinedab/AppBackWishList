@@ -21,7 +21,7 @@ En el archivo ormconfig.json ubicado en la raiz se encuentra la configuración d
 Se esta usando una base de datos relacional `mssql` online , si desea PostgreSQL deberá ejecutar el comando `npm install pg --save`, y cambiar en la configuración `mssql` por `pg`. 
 ## INICIAR
 Se debe ubicar en la carpeta raiz y ejecutar `npm install`, para instalar todas las dependencias.
-Se debe ubicar en la carpeta raiz y ejecutar `npm run dev`, este comando guardara los cambios realizados e iniciara el servidor.
+Se debe ubicar en la carpeta raiz y ejecutar `npm run start`, este comando guardara los cambios realizados e iniciara el servidor.
 ## SCRIPTS
 En este caso debido a que la base de datos es online no es necesario correr scripts antes de iniciar la aplicación. 
 
