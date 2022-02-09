@@ -1,4 +1,4 @@
-# appCreditCard-Server
+# appWishList-Server
 Aplicación Servidor de Listas de Deseo utilizando NodeJS y express
 ## Configuración Base de Datos
 En el archivo ormconfig.json ubicado en la raiz se encuentra la configuración de la base de datos:
